@@ -17,5 +17,5 @@ The Udemy project is a static website built to practice and showcase HTML and CS
 - **HTML:** Used for structuring the content of the web page.
 - **CSS:** Used for styling the web pages, including layout, colors, and fonts.
 
-- link: 
+- link: https://velladuraivd.github.io/Udemy-clone-Project/
 
